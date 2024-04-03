@@ -11,10 +11,10 @@
 <h2>Project Screenshots:</h2>
 
 
-<img src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
-<img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
-<img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
-<img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
+<img align="center" src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="images\screenshot3.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="images\screenshot5.png" alt="project-screenshot" width="800" height="400/">
 
   
   
