@@ -33,7 +33,7 @@ https://github.com/Coullax/blockchain-chess-game/assets/66479482/0937e07f-67ed-4
 
 Technologies used in the project:
 
-*   erc1155 smart cotract
+*   erc1155 smart contract
 *   web-sockets
 *   nodejs
 *   react
