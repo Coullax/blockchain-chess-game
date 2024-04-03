@@ -10,11 +10,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<vido src="" images\screenshot1.png""="" alt="project-screenshot" width="400" height="400/">
-<img src="" images\screenshot1.png""="" alt="project-screenshot" width="400" height="400/">
-<img src="" images\screenshot1.png""="" alt="project-screenshot" width="400" height="400/">
-<img src="" images\screenshot1.png""="" alt="project-screenshot" width="400" height="400/">
-<img src="" images\screenshot1.png""="" alt="project-screenshot" width="400" height="400/">
+
+<img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
+<img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
+<img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
+<img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
 
   
   
