@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Blockchain Chess Game</h1>
+<h1 align="center" id="title">Multiplayer Blockchain Chess Game</h1>
 
 <p align="center" id="description">The chess game which had integrate blockchain</p>
 
@@ -12,11 +12,11 @@
 
 <h2>🚀 Demo</h2>
 
-[https://blockchain-betting-smart-contract.onrender.com/](https://blockchain-betting-smart-contract.onrender.com/)
+[Play Game](https://blockchain-betting-smart-contract.onrender.com/)
 
 <h2>Project Screenshots:</h2>
 
-<video align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
+
 <img align="center" src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot2.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot3.png" alt="project-screenshot" width="800" height="400/">
