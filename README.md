@@ -11,7 +11,7 @@
 <h2>Project Screenshots:</h2>
 
 
-<img src="images\screenshot1.png" alt="project-screenshot" width="1000" height="400/">
+<img src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
 <img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
 <img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
 <img src="images\screenshot1.png" alt="project-screenshot" width="400" height="400/">
