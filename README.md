@@ -1,6 +1,7 @@
 <h1 align="center" id="title">Blockchain Chess Game</h1>
 
 <p align="center" id="description">The chess game which had integrate blockchain</p>
+<img align="center" src="images\logo.png" alt="project-screenshot" width="400" height="400/">
 
 <p align="center"><img src="https://img.shields.io/badge/download-you_like-blue" alt="shields"><img src="https://img.shields.io/badge/contributors-3-red" alt="shields"></p>
 
@@ -10,11 +11,13 @@
 
 <h2>Project Screenshots:</h2>
 
-
+<video align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="images\screenshot2.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot3.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
-<img align="center" src="images\screenshot5.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
+
 
   
   
