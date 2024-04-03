@@ -1,9 +1,14 @@
 <h1 align="center" id="title">Blockchain Chess Game</h1>
 
 <p align="center" id="description">The chess game which had integrate blockchain</p>
-<img align="center" src="images\logo.png" alt="project-screenshot" width="400" height="400/">
+
 
 <p align="center"><img src="https://img.shields.io/badge/download-you_like-blue" alt="shields"><img src="https://img.shields.io/badge/contributors-3-red" alt="shields"></p>
+
+<div align="center">
+  <img align="center" src="images\logo.png" alt="project-screenshot" width="400" height="400/">
+</div>
+
 
 <h2>🚀 Demo</h2>
 
