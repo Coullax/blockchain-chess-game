@@ -14,18 +14,13 @@
 
 [Play Game](https://blockchain-betting-smart-contract.onrender.com/)
 
-
 <h2>Project Screenshots:</h2>
 
-
-
-https://github.com/Coullax/blockchain-chess-game/assets/66479482/0937e07f-67ed-4000-881d-00ef9223e65d
-
-
-<img align="center" src="pngs\Capture.PNG" alt="project-screenshot" width="800" height="400/">
-<img align="center" src="pngs\Capture1.PNG" alt="project-screenshot" width="800" height="400/">
-<img align="center" src="pngs\Capture2.PNG" alt="project-screenshot" width="800" height="400/">
-<img align="center" src="pngs\Capture3.PNG" alt="project-screenshot" width="800" height="400/">
+<video src='video/demo.mp4' width=180/>
+<img align="center" src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="images\screenshot2.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="images\screenshot3.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot5.png" alt="project-screenshot" width="800" height="400/">
   
   
@@ -33,7 +28,7 @@ https://github.com/Coullax/blockchain-chess-game/assets/66479482/0937e07f-67ed-4
 
 Technologies used in the project:
 
-*   erc1155 smart contract
-*   web-sockets
+*   blockchain
+*   sockets
 *   nodejs
 *   react
