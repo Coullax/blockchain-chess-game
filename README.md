@@ -15,12 +15,13 @@
 [Play Game](https://blockchain-betting-smart-contract.onrender.com/)
 
 
-
-
-
 <h2>Project Screenshots:</h2>
 
-[<video src='[video/demo.mp4](https://github.com/Coullax/blockchain-chess-game/assets/66479482/b7d1746f-436e-4345-8134-2557c77b9cdc)' width=180/>](https://github.com/Coullax/blockchain-chess-game/assets/66479482/b7d1746f-436e-4345-8134-2557c77b9cdc)
+
+
+https://github.com/Coullax/blockchain-chess-game/assets/66479482/0937e07f-67ed-4000-881d-00ef9223e65d
+
+
 <img align="center" src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot2.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot3.png" alt="project-screenshot" width="800" height="400/">
