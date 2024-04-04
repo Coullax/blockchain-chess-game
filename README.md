@@ -29,7 +29,16 @@ https://github.com/Coullax/blockchain-chess-game/assets/66479482/0937e07f-67ed-4
 <img align="center" src="images\screenshot3.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot5.png" alt="project-screenshot" width="800" height="400/">
-  
+
+
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   An online multiplayer option, allowing users to compete against opponents remotely.
+*   A blockchain-based betting system, facilitating secure and transparent wagering.
+*   Claim transactions functionality, enabling the processing and verification of claims.
+*   The ability to create games with a unique PIN, providing a layer of access control.
   
 <h2>💻 Built with</h2>
 
