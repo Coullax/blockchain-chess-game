@@ -5,6 +5,8 @@
 
 <p align="center"><img src="https://img.shields.io/badge/download-you_like-blue" alt="shields"><img src="https://img.shields.io/badge/contributors-3-red" alt="shields"></p>
 
+<p align="center"><img src="https://socialify.git.ci/Coullax/blockchain-chess-game/image?description=1&amp;font=Source%20Code%20Pro&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
+
 <div align="center">
   <img align="center" src="images\logo.png" alt="project-screenshot" width="400" height="400/">
 </div>
