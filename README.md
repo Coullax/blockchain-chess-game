@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Multiplayer Blockchain Chess Game</h1>
 
-<p align="center" id="description">The chess game which had integrate blockchain</p>
+<p align="center" id="description">A chess game that integrates a blockchain-based betting system.</p>
 
 
 <p align="center"><img src="https://img.shields.io/badge/download-you_like-blue" alt="shields"><img src="https://img.shields.io/badge/contributors-3-red" alt="shields"></p>
