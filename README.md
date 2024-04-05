@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Multiplayer Blockchain Chess Game</h1>
+<h1 align="center" id="title">Multiplay Blockchain Chess Game</h1>
 
 <p align="center" id="description">A chess game that integrates a blockchain-based betting system.</p>
 
